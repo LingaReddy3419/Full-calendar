@@ -36,32 +36,32 @@ const mockFetchEvents = async () => {
       id: "3",
       title: "Meeting Scheduled",
       start: "2024-05-12T16:00:00",
-      end: "2024-05-01T11:00:00",
+      end: "2024-05-12T18:00:00",
     },
     {
       id: "4",
       title: "Someone's Birthday Event",
       start: "2024-05-14T11:00:00",
-      end: "2024-05-06T13:59:59",
+      end: "2024-05-15T13:59:59",
     },
     {
       id: "5",
       title: "Google Meet",
       start: "2024-05-14T14:00:00",
-      end: "2024-05-06T16:59:59",
+      end: "2024-05-14T16:59:59",
     },
     {
       id: "6",
       title: "Teams Meeting",
-      start: "2024-05-14T17:00:00",
-      end: "2024-05-06T19:59:59",
+      start: "2024-05-12T17:00:00",
+      end: "2024-05-13T19:59:59",
     },
 
     {
       id: "7",
       title: "Meeting Scheduled",
-      start: "2024-05-12T16:00:00",
-      end: "2024-05-01T11:00:00",
+      start: "2024-05-10T16:00:00",
+      end: "2024-05-11T11:00:00",
     },
   ];
 };
